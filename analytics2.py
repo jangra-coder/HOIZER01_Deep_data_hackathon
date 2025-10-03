@@ -3,10 +3,10 @@
 Usage:
     python climate_data_understanding.py --input path/to/data.csv --output outputs
 Produces:
- - textual summary saved as outputs/summary.txt
- - CSV reports: outputs/missing_report.csv, outputs/basic_stats.csv
- - saved plots in outputs/ (PNG)
- - preparation artifacts in outputs/modification/
+- textual summary saved as outputs/summary.txt
+- CSV reports: outputs/missing_report.csv, outputs/basic_stats.csv
+- saved plots in outputs/ (PNG)
+- preparation artifacts in outputs/modification/
 """
 
 import os
